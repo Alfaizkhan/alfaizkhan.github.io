@@ -5,11 +5,11 @@
     },
     {
         "name": "Flutter",
-        "icon": "https://icons8.com/icon/7I3BjCqe9rjG/flutter"
+        "icon": "https://img.icons8.com/color/512/flutter.png"
     },
     {
         "name": "iOS",
-        "icon": "https://icons8.com/icon/30840/apple-logo"
+        "icon": "https://img.icons8.com/color/512/mac-os.png"
     },
     {
         "name": "Firebase",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Dart",
-        "icon": "https://icons8.com/icon/7AFcZ2zirX6Y/dart"
+        "icon": "https://img.icons8.com/color/512/dart.png"
     },
     {
         "name": "Java",
@@ -42,7 +42,7 @@
     },    
     {
         "name": "Google Cloud",
-        "icon": "https://icons8.com/icon/WHRLQdbEXQ16/google-cloud"
+        "icon": "https://img.icons8.com/color/512/google-cloud.png"
     },
     {
         "name": "Git VCS",
