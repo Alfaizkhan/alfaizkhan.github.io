@@ -11,5 +11,4 @@ If you want to contact me, you can reach me through below handles.
 
 © 2022 Alfaizkhan Pathan
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<img src="https://raw.githubusercontent.com/Alfaizkhan/alfaizkhan.github.io/0ea5f49b9dbdaa41b6fa38ac8fb66c1fb68ceef6/assets/build-by-alfaizkhan.svg"> 
